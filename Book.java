@@ -13,5 +13,9 @@ public class Book {
 		this.author = author;
 	}
 	
+	public void display(){
+		System.out.println("Updated book")
+	}
+	
 	
 }
