@@ -3,6 +3,7 @@ package github;
 public class Book {
 	private String author;
 	private String name;
+	private int price;
 
 	public String getAuthor() {
 		return author;
