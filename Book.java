@@ -14,7 +14,11 @@ public class Book {
 	}
 	
 	public void display(){
-		System.out.println("Updated book")
+		System.out.println("Updated book");
+	}
+	
+	public void display2(){
+		System.out.println("Branch Updated");
 	}
 	
 	
